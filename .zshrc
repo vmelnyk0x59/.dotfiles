@@ -107,3 +107,5 @@ source ~/.zsh/catppuccin_mocha-zsh-syntax-highlighting.zsh
 
 # now load zsh-syntax-highlighting plugin
 
+source ~/.env
+
