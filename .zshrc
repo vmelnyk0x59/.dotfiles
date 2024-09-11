@@ -107,5 +107,7 @@ source ~/.zsh/catppuccin_mocha-zsh-syntax-highlighting.zsh
 
 # now load zsh-syntax-highlighting plugin
 
+export PATH=$PATH::/Applications/love.app/Contents/MacOS/
+
 source ~/.env
 
